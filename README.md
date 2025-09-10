@@ -30,3 +30,6 @@ y procesamiento de lenguaje natural.
 3. Ejecutar el entorno virtual
    ```bash
    source venv/bin/activate  # En Windows: venv\Scripts\activate
+4. Instalar las dependencias del proyecto en el entorno virtual
+   ```bash
+   pip install pandas numpy scikit-learn nltk
